@@ -2,3 +2,8 @@
 *{
     background-color: white;
 }
+
+.card{
+    float: left;
+    padding-left: 50px;
+}
